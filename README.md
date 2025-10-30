@@ -84,5 +84,6 @@ Dentro do **AWS Step Functions**, é possível escolher e implementar **projetos
 - [Documentação Oficial da AWS Step Functions](https://docs.aws.amazon.com/step-functions/)    
 - [Workflow Studio - AWS Console](https://aws.amazon.com/step-functions/)
 
+## Todas as informações foram extraídas do curso Code Girls, e da internet
 
 📅 **Última atualização:** 29 de Outubro de 2025
